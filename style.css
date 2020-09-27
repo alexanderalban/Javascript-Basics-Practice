@@ -1,0 +1,33 @@
+div {
+    width: 260px; 
+    height: 260px; 
+    margin-right: 50px;
+    float: left;
+}
+
+
+/* Using the class name "circle" */
+.circle { 
+	border-radius: 50%;
+} 
+		
+.rounded { 
+	border-radius: 25%; 
+} 
+		
+.square { 
+	border-radius: 0%; 
+} 
+
+/* Using the id "circle"*/
+#circle { 
+	background-color: #196F3D; 
+}
+		
+#rounded { 
+	background-color: #5DADE2; 
+}
+		
+#square { 
+	background-color: #58D68D; 
+} 
