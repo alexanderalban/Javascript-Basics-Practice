@@ -1,33 +1,32 @@
 div {
-    width: 260px; 
-    height: 260px; 
-    margin-right: 50px;
-    float: left;
+  width: 260px;
+  height: 260px;
+  margin-right: 50px;
+  float: left;
 }
-
 
 /* Using the class name "circle" */
-.circle { 
-	border-radius: 50%;
-} 
-		
-.rounded { 
-	border-radius: 25%; 
-} 
-		
-.square { 
-	border-radius: 0%; 
-} 
+.circle {
+  border-radius: 50%;
+}
+
+.rounded {
+  border-radius: 25%;
+}
+
+.square {
+  border-radius: 0%;
+}
 
 /* Using the id "circle"*/
-#circle { 
-	background-color: #196F3D; 
+#circle {
+  background-color: #196f3d;
 }
-		
-#rounded { 
-	background-color: #5DADE2; 
+
+#rounded {
+  background-color: #5dade2;
 }
-		
-#square { 
-	background-color: #58D68D; 
-} 
+
+#square {
+  background-color: #58d68d;
+}

@@ -39,5 +39,5 @@ const disappear = (element) => {
 // document.getElementById("square").onclick = function90 {
 
 //      document.getElementById("square").style.display = "none";
-
-// }
+ 
+// } 
